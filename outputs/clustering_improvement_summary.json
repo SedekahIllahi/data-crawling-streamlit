@@ -1,0 +1,10 @@
+{
+  "original_silhouette_score": 0.016,
+  "improved_silhouette_score": 0.14849816542479566,
+  "improvement_percentage": 828.1135339049728,
+  "best_algorithm": "K-Means",
+  "best_vectorizer": "Count Vectorizer",
+  "optimal_k": 2,
+  "total_reviews": 91,
+  "number_of_clusters": 2
+}

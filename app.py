@@ -17,7 +17,7 @@ st.set_page_config(page_title="Sentiment Analysis App", page_icon="📊", layout
 def load_model_pipeline():
     """Loads the saved Logistic Regression pipeline."""
     try:
-        model_path = Path('models') / 'model_lr.joblib'   # ✅ no need for parent/..
+        model_path = Path('models') / 'model_lr.joblib'  
         pipeline = joblib.load(model_path)
         print("✅ Model pipeline loaded successfully.")
         return pipeline
@@ -31,7 +31,7 @@ def load_model_pipeline():
 def load_data():
     """Loads the dataset for analysis."""
     try:
-        data_path = Path('outputs') / 'tokopedia_sentiments.csv'   # ✅ no need for parent/..
+        data_path = Path('outputs') / 'tokopedia_sentiments.csv'   
         df = pd.read_csv(data_path)
         print("✅ Dataset loaded successfully.")
         return df

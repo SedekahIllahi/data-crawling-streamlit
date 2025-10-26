@@ -1,110 +1,110 @@
-review,cleaned_review,sentiment_nb,sentiment_nn,sentiment_final
-"Laptop tergolong ringan,tidak terlalu besar...mantabs",laptop tergolong ringan tidak terlalu besar mantabs,negative,positive,positive
-"pengiriman cepat, spek barang sesuai, packing aman",pengiriman cepat spek barang sesuai packing aman,positive,positive,positive
-manntab respon cepet barang ok dan original,manntab respon cepet barang ok dan original,neutral,neutral,neutral
-"Barang cepat sampai dan sesuai informasi, Admin fast respon dan sangat membantu, recommended",barang cepat sampai dan sesuai informasi admin fast respon dan sangat membantu recommended,neutral,negative,negative
-"spek sesuai deskripsi, pengiriman gercep, seller responsif",spek sesuai deskripsi pengiriman gercep seller responsif,negative,negative,negative
-Spesifikasi ok bgt plus hrg worth it dan udah plus RAM 32 gb. Terima kasih utk respon seller yg cepat sehingga bisa dikirim di hari yg sama.,spesifikasi ok bgt plus hrg worth it dan udah plus ram gb terima kasih utk respon seller yg cepat sehingga bisa dikirim di hari yg sama,positive,negative,negative
-"luar biasa, puas belanja di sini",luar biasa puas belanja di sini,neutral,neutral,neutral
-"sesuai pesanan, semoga tidak ada kendala",sesuai pesanan semoga tidak ada kendala,positive,negative,negative
-"Produk sampai dengan selamat lebih cepat dari perkiraan pengiriman, dibungkus rapi. Laptopnya lebih ringan dari dugaan, kirain bakal gede dan berat tipikal gaming laptop.... ",produk sampai dengan selamat lebih cepat dari perkiraan pengiriman dibungkus rapi laptopnya lebih ringan dari dugaan kirain bakal gede dan berat tipikal gaming laptop,positive,negative,negative
+review,cleaned_review,sentiment_nb,sentiment_nn,sentiment_final,confidence
+"Laptop tergolong ringan,tidak terlalu besar...mantabs",laptop tergolong ringan tidak terlalu besar mantabs,negative,positive,positive,0.6803709212067326
+"pengiriman cepat, spek barang sesuai, packing aman",pengiriman cepat spek barang sesuai packing aman,positive,positive,positive,0.6672017218652837
+manntab respon cepet barang ok dan original,manntab respon cepet barang ok dan original,neutral,neutral,neutral,0.6493597145082702
+"Barang cepat sampai dan sesuai informasi, Admin fast respon dan sangat membantu, recommended",barang cepat sampai dan sesuai informasi admin fast respon dan sangat membantu recommended,neutral,negative,negative,0.6092402125784897
+"spek sesuai deskripsi, pengiriman gercep, seller responsif",spek sesuai deskripsi pengiriman gercep seller responsif,negative,negative,negative,0.7232299912106457
+Spesifikasi ok bgt plus hrg worth it dan udah plus RAM 32 gb. Terima kasih utk respon seller yg cepat sehingga bisa dikirim di hari yg sama.,spesifikasi ok bgt plus hrg worth it dan udah plus ram gb terima kasih utk respon seller yg cepat sehingga bisa dikirim di hari yg sama,positive,negative,negative,0.7993425673212606
+"luar biasa, puas belanja di sini",luar biasa puas belanja di sini,neutral,neutral,neutral,0.8136448896302011
+"sesuai pesanan, semoga tidak ada kendala",sesuai pesanan semoga tidak ada kendala,positive,negative,negative,0.5705812780610517
+"Produk sampai dengan selamat lebih cepat dari perkiraan pengiriman, dibungkus rapi. Laptopnya lebih ringan dari dugaan, kirain bakal gede dan berat tipikal gaming laptop.... ",produk sampai dengan selamat lebih cepat dari perkiraan pengiriman dibungkus rapi laptopnya lebih ringan dari dugaan kirain bakal gede dan berat tipikal gaming laptop,positive,negative,negative,0.5059360106353776
 "barang sesuai, seller responsif, komunikatif dan ramah, pengiriman ok dan barang aman. terima kasih.
-catatan; jangan lupa baca informasi kebijakan toko terkait pengiriman... ",barang sesuai seller responsif komunikatif dan ramah pengiriman ok dan barang aman terima kasih catatan jangan lupa baca informasi kebijakan toko terkait pengiriman,positive,positive,positive
-mantaapp rekomended seller ramah dan responsif,mantaapp rekomended seller ramah dan responsif,positive,neutral,neutral
-"Aman, kirim packing kayu ke mataram sampai dengan selamat",aman kirim packing kayu ke mataram sampai dengan selamat,positive,positive,positive
-"barang sesuai dgn yg diharapkan, semoga pelayanan service center nya jga sama OK nya. karena dlm waktu dkat mau minta pindahkan HDD dari laptop lama ke laptop baru beli i... ",barang sesuai dgn yg diharapkan semoga pelayanan service center nya jga sama ok nya karena dlm waktu dkat mau minta pindahkan hdd dari laptop lama ke laptop baru beli i,neutral,neutral,neutral
-"kartu garansi, tas, charger dapet bonus screen cleaner lengkap, pengiriman sesuai estimasi",kartu garansi tas charger dapet bonus screen cleaner lengkap pengiriman sesuai estimasi,neutral,positive,positive
-"Barang bagus dan original, ukuran layar besar dan pas di genggaman tangan yang besar.",barang bagus dan original ukuran layar besar dan pas di genggaman tangan yang besar,neutral,positive,positive
-"hu huuu keren banget dah pokoknya, bisa request bentuk",hu huuu keren banget dah pokoknya bisa request bentuk,negative,positive,positive
-"lumayan cepet pengirimannya, sesuai ekspetasi",lumayan cepet pengirimannya sesuai ekspetasi,positive,negative,negative
-"Respon admin cepat, dan pengiriman lancar, barang juga bagus , recomended seller.",respon admin cepat dan pengiriman lancar barang juga bagus recomended seller,positive,positive,positive
-barang sudah diterima dan berfungsi dengan normal,barang sudah diterima dan berfungsi dengan normal,neutral,neutral,neutral
-"packing rapi dan sangat aman untuk luar kota seperti saya , barang sesuai spek dan original .. pelayanan fast respon",packing rapi dan sangat aman untuk luar kota seperti saya barang sesuai spek dan original pelayanan fast respon,positive,positive,positive
+catatan; jangan lupa baca informasi kebijakan toko terkait pengiriman... ",barang sesuai seller responsif komunikatif dan ramah pengiriman ok dan barang aman terima kasih catatan jangan lupa baca informasi kebijakan toko terkait pengiriman,positive,positive,positive,0.7568484973869651
+mantaapp rekomended seller ramah dan responsif,mantaapp rekomended seller ramah dan responsif,positive,neutral,neutral,0.49015053082978693
+"Aman, kirim packing kayu ke mataram sampai dengan selamat",aman kirim packing kayu ke mataram sampai dengan selamat,positive,positive,positive,0.7361343074959107
+"barang sesuai dgn yg diharapkan, semoga pelayanan service center nya jga sama OK nya. karena dlm waktu dkat mau minta pindahkan HDD dari laptop lama ke laptop baru beli i... ",barang sesuai dgn yg diharapkan semoga pelayanan service center nya jga sama ok nya karena dlm waktu dkat mau minta pindahkan hdd dari laptop lama ke laptop baru beli i,neutral,neutral,neutral,0.9255819025213248
+"kartu garansi, tas, charger dapet bonus screen cleaner lengkap, pengiriman sesuai estimasi",kartu garansi tas charger dapet bonus screen cleaner lengkap pengiriman sesuai estimasi,neutral,positive,positive,0.5652918447541805
+"Barang bagus dan original, ukuran layar besar dan pas di genggaman tangan yang besar.",barang bagus dan original ukuran layar besar dan pas di genggaman tangan yang besar,neutral,positive,positive,0.5574519905167159
+"hu huuu keren banget dah pokoknya, bisa request bentuk",hu huuu keren banget dah pokoknya bisa request bentuk,negative,positive,positive,0.5380094301497496
+"lumayan cepet pengirimannya, sesuai ekspetasi",lumayan cepet pengirimannya sesuai ekspetasi,positive,negative,negative,0.5909034921136576
+"Respon admin cepat, dan pengiriman lancar, barang juga bagus , recomended seller.",respon admin cepat dan pengiriman lancar barang juga bagus recomended seller,positive,positive,positive,0.4616426725265309
+barang sudah diterima dan berfungsi dengan normal,barang sudah diterima dan berfungsi dengan normal,neutral,neutral,neutral,0.9381930598726949
+"packing rapi dan sangat aman untuk luar kota seperti saya , barang sesuai spek dan original .. pelayanan fast respon",packing rapi dan sangat aman untuk luar kota seperti saya barang sesuai spek dan original pelayanan fast respon,positive,positive,positive,0.7976995960130702
 "Barangnya mendarat dengan.
 Kualitas bagus.
 semoga awet.
-terima kasih MSI",barangnya mendarat dengan kualitas bagus semoga awet terima kasih msi,positive,positive,positive
-"Paket telah diterima dengan baik  &  sesuai penjelasan deskripsi di produk, Packing rapi Terimakasih.",paket telah diterima dengan baik sesuai penjelasan deskripsi di produk packing rapi terimakasih,positive,positive,positive
+terima kasih MSI",barangnya mendarat dengan kualitas bagus semoga awet terima kasih msi,positive,positive,positive,0.9985166911857903
+"Paket telah diterima dengan baik  &  sesuai penjelasan deskripsi di produk, Packing rapi Terimakasih.",paket telah diterima dengan baik sesuai penjelasan deskripsi di produk packing rapi terimakasih,positive,positive,positive,0.8697121709745017
 "pengririman aman. sampai luar pulau dengan selamat. segel dan nyala lancar. 
 
-mantap claw ini batere kuat tdp rendah game tetep lancar. sbagai mini pc gaming ke monitor i... ",pengririman aman sampai luar pulau dengan selamat segel dan nyala lancar mantap claw ini batere kuat tdp rendah game tetep lancar sbagai mini pc gaming ke monitor i,positive,positive,positive
-Produk dikirim di hari yg sama dan diterima dalam keadaan baik. Selama ini tidak ada masalah.,produk dikirim di hari yg sama dan diterima dalam keadaan baik selama ini tidak ada masalah,positive,negative,negative
-oh my god... ini yang papa cari selama ini...,oh my god ini yang papa cari selama ini,positive,negative,positive
-"sesuai pesanan. dus ada yg penyok.,tapi untung gak tembus ke laptop.",sesuai pesanan dus ada yg penyok tapi untung gak tembus ke laptop,negative,negative,negative
-"Pengiriman cepat, spek gahar harga murah",pengiriman cepat spek gahar harga murah,neutral,neutral,neutral
-Bagus,bagus,positive,positive,positive
-"Performanya bagus, layanan penjual juga cepat tanggap",performanya bagus layanan penjual juga cepat tanggap,negative,positive,positive
-mantap fast respon di kirim key langsung,mantap fast respon di kirim key langsung,positive,negative,positive
-"Barang cocok, cepat sampai, admin responsif... mantap 👌",barang cocok cepat sampai admin responsif mantap,neutral,positive,positive
-"pengiriman tepat, respon cepat , barang ORI",pengiriman tepat respon cepat barang ori,negative,negative,negative
-"pelayanan terbaik, barang sesuai hingga pengiriman cepat.",pelayanan terbaik barang sesuai hingga pengiriman cepat,neutral,negative,negative
-"packing tebal, response seller cepat dan informatif, barang sesuai deskripsi dan mulus, sementara blum ada kendala dgn unit yg diterima",packing tebal response seller cepat dan informatif barang sesuai deskripsi dan mulus sementara blum ada kendala dgn unit yg diterima,negative,negative,negative
-"Sesuai deskripsi packing aman, fast response, recommended seller",sesuai deskripsi packing aman fast response recommended seller,positive,negative,negative
-"mendarat selamat, sesuai pesanan, mantaps.",mendarat selamat sesuai pesanan mantaps,neutral,neutral,neutral
-"Untuk spesifikasi yang cukup tinggi ini, harganya tergolong terjangkau",untuk spesifikasi yang cukup tinggi ini harganya tergolong terjangkau,positive,negative,negative
-Joss,joss,positive,neutral,neutral
-Barang original dan sesuai spek… proses cepat… reques instal smua dibantu… makasih ya,barang original dan sesuai spek proses cepat reques instal smua dibantu makasih ya,positive,positive,positive
-"Is gud, cepat dan semua jenis ruang (storage, ram, ukuran layar dan keyboard) luas dan memuaskan",is gud cepat dan semua jenis ruang storage ram ukuran layar dan keyboard luas dan memuaskan,neutral,neutral,neutral
-"saya puas dgn produk MSI, mantap dan saya selalu mendapat  layanan prima. saya sudah mulai berlanggan 21 Juli 2022 (MSI Modern 14 B11MOU) hingga 06 September 2025 (Modern... ",saya puas dgn produk msi mantap dan saya selalu mendapat layanan prima saya sudah mulai berlanggan juli msi modern bmou hingga september modern,positive,positive,positive
-barang dateng aku senang,barang dateng aku senang,negative,positive,positive
-barang sesuai deskripsi. sejauh ini gak ada masalah. thx,barang sesuai deskripsi sejauh ini gak ada masalah thx,negative,negative,negative
-"build quality msih kalah sama lenovo,tpi spek dan harga masih terbaik ini 👍👍👍👍",build quality msih kalah sama lenovo tpi spek dan harga masih terbaik ini,neutral,negative,negative
+mantap claw ini batere kuat tdp rendah game tetep lancar. sbagai mini pc gaming ke monitor i... ",pengririman aman sampai luar pulau dengan selamat segel dan nyala lancar mantap claw ini batere kuat tdp rendah game tetep lancar sbagai mini pc gaming ke monitor i,positive,positive,positive,0.9999096794029529
+Produk dikirim di hari yg sama dan diterima dalam keadaan baik. Selama ini tidak ada masalah.,produk dikirim di hari yg sama dan diterima dalam keadaan baik selama ini tidak ada masalah,positive,negative,positive,0.5516714794431467
+oh my god... ini yang papa cari selama ini...,oh my god ini yang papa cari selama ini,positive,negative,positive,0.6293267491273483
+"sesuai pesanan. dus ada yg penyok.,tapi untung gak tembus ke laptop.",sesuai pesanan dus ada yg penyok tapi untung gak tembus ke laptop,negative,negative,negative,0.6782561743108065
+"Pengiriman cepat, spek gahar harga murah",pengiriman cepat spek gahar harga murah,neutral,neutral,neutral,0.6161977831283787
+Bagus,bagus,positive,positive,positive,0.8559192427622198
+"Performanya bagus, layanan penjual juga cepat tanggap",performanya bagus layanan penjual juga cepat tanggap,negative,positive,positive,0.4444136646481958
+mantap fast respon di kirim key langsung,mantap fast respon di kirim key langsung,positive,negative,positive,0.550362532860565
+"Barang cocok, cepat sampai, admin responsif... mantap 👌",barang cocok cepat sampai admin responsif mantap,neutral,positive,positive,0.6511912731332121
+"pengiriman tepat, respon cepat , barang ORI",pengiriman tepat respon cepat barang ori,negative,negative,negative,0.5212671474552932
+"pelayanan terbaik, barang sesuai hingga pengiriman cepat.",pelayanan terbaik barang sesuai hingga pengiriman cepat,neutral,negative,negative,0.5922305937718585
+"packing tebal, response seller cepat dan informatif, barang sesuai deskripsi dan mulus, sementara blum ada kendala dgn unit yg diterima",packing tebal response seller cepat dan informatif barang sesuai deskripsi dan mulus sementara blum ada kendala dgn unit yg diterima,negative,negative,negative,0.8514465318019196
+"Sesuai deskripsi packing aman, fast response, recommended seller",sesuai deskripsi packing aman fast response recommended seller,positive,negative,negative,0.5420268374837907
+"mendarat selamat, sesuai pesanan, mantaps.",mendarat selamat sesuai pesanan mantaps,neutral,neutral,neutral,0.7591287899141528
+"Untuk spesifikasi yang cukup tinggi ini, harganya tergolong terjangkau",untuk spesifikasi yang cukup tinggi ini harganya tergolong terjangkau,positive,negative,negative,0.6082966447775542
+Joss,joss,positive,neutral,neutral,0.46224870949323654
+Barang original dan sesuai spek… proses cepat… reques instal smua dibantu… makasih ya,barang original dan sesuai spek proses cepat reques instal smua dibantu makasih ya,positive,positive,positive,0.6988993237961445
+"Is gud, cepat dan semua jenis ruang (storage, ram, ukuran layar dan keyboard) luas dan memuaskan",is gud cepat dan semua jenis ruang storage ram ukuran layar dan keyboard luas dan memuaskan,neutral,neutral,neutral,0.8040670568730242
+"saya puas dgn produk MSI, mantap dan saya selalu mendapat  layanan prima. saya sudah mulai berlanggan 21 Juli 2022 (MSI Modern 14 B11MOU) hingga 06 September 2025 (Modern... ",saya puas dgn produk msi mantap dan saya selalu mendapat layanan prima saya sudah mulai berlanggan juli msi modern bmou hingga september modern,positive,positive,positive,0.9620646064687188
+barang dateng aku senang,barang dateng aku senang,negative,positive,positive,0.47933694974359664
+barang sesuai deskripsi. sejauh ini gak ada masalah. thx,barang sesuai deskripsi sejauh ini gak ada masalah thx,negative,negative,negative,0.8055533627955476
+"build quality msih kalah sama lenovo,tpi spek dan harga masih terbaik ini 👍👍👍👍",build quality msih kalah sama lenovo tpi spek dan harga masih terbaik ini,neutral,negative,negative,0.6487133271091515
 "Nemu harta karun buat bocah.
 Ngak disangka dapet harga segini.
 Seller Top Banget Dah.
 Pengiriman OK
-Barang Dahsyat Banget",nemu harta karun buat bocah ngak disangka dapet harga segini seller top banget dah pengiriman ok barang dahsyat banget,neutral,negative,neutral
-"sesuai expektasi, mantap",sesuai expektasi mantap,positive,positive,positive
-sesuai,sesuai,positive,negative,negative
-"waktu instal cepat. responsif... ringan,",waktu instal cepat responsif ringan,positive,negative,negative
-"barang ok, cs dan staff saat pickup ramah dan helpful",barang ok cs dan staff saat pickup ramah dan helpful,positive,neutral,neutral
-"Oke banget cepet sampainya, ga perlu tanbah packing kayu udh aman. Cuma dari laptopnya sendiri agak cepet panas yah harus beli cooling pad laptop nih:”",oke banget cepet sampainya ga perlu tanbah packing kayu udh aman cuma dari laptopnya sendiri agak cepet panas yah harus beli cooling pad laptop nih,positive,positive,positive
-"barangnya bagus banget, reseller juga ramah dan fast respond",barangnya bagus banget reseller juga ramah dan fast respond,positive,positive,positive
-"Sempat ada Kendala, karena ingin cepat akhirnya saya bawa ketokonya, dan alhamdullilah sudah terselesaikan, semoga kedepannya, tim teknis toko dapat mengecek kembali pesa... ",sempat ada kendala karena ingin cepat akhirnya saya bawa ketokonya dan alhamdullilah sudah terselesaikan semoga kedepannya tim teknis toko dapat mengecek kembali pesa,positive,positive,positive
+Barang Dahsyat Banget",nemu harta karun buat bocah ngak disangka dapet harga segini seller top banget dah pengiriman ok barang dahsyat banget,neutral,negative,neutral,0.6156736077597726
+"sesuai expektasi, mantap",sesuai expektasi mantap,positive,positive,positive,0.8974028028954948
+sesuai,sesuai,positive,negative,negative,0.43754246522039664
+"waktu instal cepat. responsif... ringan,",waktu instal cepat responsif ringan,positive,negative,negative,0.49105382594134284
+"barang ok, cs dan staff saat pickup ramah dan helpful",barang ok cs dan staff saat pickup ramah dan helpful,positive,neutral,positive,0.5063368756473092
+"Oke banget cepet sampainya, ga perlu tanbah packing kayu udh aman. Cuma dari laptopnya sendiri agak cepet panas yah harus beli cooling pad laptop nih:”",oke banget cepet sampainya ga perlu tanbah packing kayu udh aman cuma dari laptopnya sendiri agak cepet panas yah harus beli cooling pad laptop nih,positive,positive,positive,0.9742797258032517
+"barangnya bagus banget, reseller juga ramah dan fast respond",barangnya bagus banget reseller juga ramah dan fast respond,positive,positive,positive,0.952801964729407
+"Sempat ada Kendala, karena ingin cepat akhirnya saya bawa ketokonya, dan alhamdullilah sudah terselesaikan, semoga kedepannya, tim teknis toko dapat mengecek kembali pesa... ",sempat ada kendala karena ingin cepat akhirnya saya bawa ketokonya dan alhamdullilah sudah terselesaikan semoga kedepannya tim teknis toko dapat mengecek kembali pesa,positive,positive,positive,0.9731615902853297
 "so far baik-baik aja, seller responsif, dan sangat membantu kalo ada masalah,
 
-trusted, mau ngelayanin pertanyaan detil dari pembeli",so far baikbaik aja seller responsif dan sangat membantu kalo ada masalah trusted mau ngelayanin pertanyaan detil dari pembeli,positive,positive,positive
-"Packaging oke, Spesifikasi²nya sesuai dengan yang tertera, Untuk pemakaiannya juga oke banget",packaging oke spesifikasinya sesuai dengan yang tertera untuk pemakaiannya juga oke banget,positive,neutral,neutral
-"sejauh ini ga ada masalah, admin fast responses. semoga no trouble yaa, thanks",sejauh ini ga ada masalah admin fast responses semoga no trouble yaa thanks,positive,negative,negative
-Sdh langganan yang ketiga...mantap,sdh langganan yang ketiga mantap,positive,positive,positive
-laptop sdh dicoba dan berjalan normal.,laptop sdh dicoba dan berjalan normal,positive,positive,positive
-"Barang dikemas dengan baik dan tidak perlu kuatir kena hujam karena dibungkan plastik 2 lapis,  dan dikirim tepat waktu.",barang dikemas dengan baik dan tidak perlu kuatir kena hujam karena dibungkan plastik lapis dan dikirim tepat waktu,positive,positive,positive
-mantaaaappp,mantaaaappp,positive,neutral,neutral
+trusted, mau ngelayanin pertanyaan detil dari pembeli",so far baikbaik aja seller responsif dan sangat membantu kalo ada masalah trusted mau ngelayanin pertanyaan detil dari pembeli,positive,positive,positive,0.7891598028420858
+"Packaging oke, Spesifikasi²nya sesuai dengan yang tertera, Untuk pemakaiannya juga oke banget",packaging oke spesifikasinya sesuai dengan yang tertera untuk pemakaiannya juga oke banget,positive,neutral,neutral,0.6111801319366752
+"sejauh ini ga ada masalah, admin fast responses. semoga no trouble yaa, thanks",sejauh ini ga ada masalah admin fast responses semoga no trouble yaa thanks,positive,negative,negative,0.6034132695087724
+Sdh langganan yang ketiga...mantap,sdh langganan yang ketiga mantap,positive,positive,positive,0.6447852139025012
+laptop sdh dicoba dan berjalan normal.,laptop sdh dicoba dan berjalan normal,positive,positive,positive,0.8405114493390988
+"Barang dikemas dengan baik dan tidak perlu kuatir kena hujam karena dibungkan plastik 2 lapis,  dan dikirim tepat waktu.",barang dikemas dengan baik dan tidak perlu kuatir kena hujam karena dibungkan plastik lapis dan dikirim tepat waktu,positive,positive,positive,0.7224291898190973
+mantaaaappp,mantaaaappp,positive,neutral,neutral,0.46224870949323654
 "T O P 👍🏻 
-Seller fast respond, gercep. Barang lengkap, OK ⭐️⭐️⭐️⭐️⭐️",t o p seller fast respond gercep barang lengkap ok,negative,negative,negative
-"setelah update terbaru, driver Intel Arc sekarang lebih baik jalan di di TDP 10W, bisa jalan 40-50 fps setelah coba di beberapa game AAA kalau pakai XeSS bisa lebih",setelah update terbaru driver intel arc sekarang lebih baik jalan di di tdp w bisa jalan fps setelah coba di beberapa game aaa kalau pakai xess bisa lebih,neutral,neutral,neutral
-"respon cepat dan barang sesuai deskripsi, berjalan normal, berfungsi baik. Langganan",respon cepat dan barang sesuai deskripsi berjalan normal berfungsi baik langganan,neutral,neutral,neutral
-Oke mantap barang sesuai,oke mantap barang sesuai,positive,neutral,positive
-mantap semoga gk rewell,mantap semoga gk rewell,positive,positive,positive
+Seller fast respond, gercep. Barang lengkap, OK ⭐️⭐️⭐️⭐️⭐️",t o p seller fast respond gercep barang lengkap ok,negative,negative,negative,0.6058036792221145
+"setelah update terbaru, driver Intel Arc sekarang lebih baik jalan di di TDP 10W, bisa jalan 40-50 fps setelah coba di beberapa game AAA kalau pakai XeSS bisa lebih",setelah update terbaru driver intel arc sekarang lebih baik jalan di di tdp w bisa jalan fps setelah coba di beberapa game aaa kalau pakai xess bisa lebih,neutral,neutral,neutral,0.9087639687779667
+"respon cepat dan barang sesuai deskripsi, berjalan normal, berfungsi baik. Langganan",respon cepat dan barang sesuai deskripsi berjalan normal berfungsi baik langganan,neutral,neutral,neutral,0.6109349075465285
+Oke mantap barang sesuai,oke mantap barang sesuai,positive,neutral,positive,0.5275514430351758
+mantap semoga gk rewell,mantap semoga gk rewell,positive,positive,positive,0.9665508329341086
 "barang bagus...👍🏻
 pengiriman cepat...👍🏻
-puas dgn layanan nya 😁🙏🏻",barang bagus pengiriman cepat puas dgn layanan nya,negative,neutral,neutral
-"Produk mantap, pelayanan dan respon cepet, rekomen banget",produk mantap pelayanan dan respon cepet rekomen banget,positive,positive,positive
-diterima dengan baik. mantab. barang berfungsi dengan baik.,diterima dengan baik mantab barang berfungsi dengan baik,positive,positive,positive
-"Barang asli ,sesuai dengan pesanan ,produk mulus",barang asli sesuai dengan pesanan produk mulus,neutral,negative,neutral
-"Perfecta handheld console para mi.. good performa, sleek design, good build quality. Pelayanan toko-nya juga bagus banget, ramah dan cepat.. 👌🏼👌🏼",perfecta handheld console para mi good performa sleek design good build quality pelayanan tokonya juga bagus banget ramah dan cepat,positive,neutral,neutral
-"durasi unboxing kepanjangan gk bisa keupload min, btw barang dateng puas tidak ada minus. Adminnya ramah untuk customer yg banyak nanya kek saya 🤍",durasi unboxing kepanjangan gk bisa keupload min btw barang dateng puas tidak ada minus adminnya ramah untuk customer yg banyak nanya kek saya,negative,negative,negative
-"Pengiriman “kurir toko” tapi suruh ambil sendiri, ditengah demo huru hara pula",pengiriman kurir toko tapi suruh ambil sendiri ditengah demo huru hara pula,negative,neutral,neutral
-good performance,good performance,neutral,neutral,neutral
-barang sudah sampe dan aman cuma minusnya pengiriman yang agak lama 😅,barang sudah sampe dan aman cuma minusnya pengiriman yang agak lama,neutral,neutral,neutral
-"Entah order yg ke berapa kali, sdh tdk ingat, yg jelas kualitas tetap terjaga tanpa pernah komplain. sayangnya gak pernah kasih gift sebagai award. recommanded seller pok... ",entah order yg ke berapa kali sdh tdk ingat yg jelas kualitas tetap terjaga tanpa pernah komplain sayangnya gak pernah kasih gift sebagai award recommanded seller pok,negative,negative,negative
-barangnya bagus. sangat direkomendasikan,barangnya bagus sangat direkomendasikan,positive,positive,positive
-Reviewnya udah tayang di channelku Youtubeku @bangripiu 😌,reviewnya udah tayang di channelku youtubeku bangripiu,neutral,neutral,neutral
-"sipp, sesuai ekspektasi. pas dapat harga murce",sipp sesuai ekspektasi pas dapat harga murce,neutral,negative,negative
-"datang dengan kualitas prima tanpa cacat, RAM sesuai, dan bisa klaim OHS.",datang dengan kualitas prima tanpa cacat ram sesuai dan bisa klaim ohs,positive,positive,positive
-Barang sesuai deskripsi dan dikemas dengan baik,barang sesuai deskripsi dan dikemas dengan baik,positive,positive,positive
-Mantapp barang baguss laptop orii,mantapp barang baguss laptop orii,negative,neutral,neutral
-"KEREN NO KOMEN, DIPAKE MAEN GAMES KEBUT, DIPAKE TRADINGAN APALAGI, THE BEST MSI CLAW 8AI+",keren no komen dipake maen games kebut dipake tradingan apalagi the best msi claw ai,positive,positive,positive
-The best pokoknya,the best pokoknya,positive,positive,positive
-Sempet bermasalah dapet yang gagal product sampai hrus ke pusat ganti bolak balik 3x,sempet bermasalah dapet yang gagal product sampai hrus ke pusat ganti bolak balik x,neutral,negative,negative
-good. cuma di gambar bonus tws. tp gak dapat,good cuma di gambar bonus tws tp gak dapat,neutral,neutral,neutral
-mantab.. sesuai pesanan,mantab sesuai pesanan,positive,positive,positive
-pengiriman tepat waktu meski jakarta lagi demo. unit segel. garansi resmi,pengiriman tepat waktu meski jakarta lagi demo unit segel garansi resmi,neutral,neutral,neutral
-sangat baik dengan harga yg kompetitif dengan brand lain,sangat baik dengan harga yg kompetitif dengan brand lain,negative,negative,negative
-Mantapu Jiwa Raga Indonesia Raya Merdeka,mantapu jiwa raga indonesia raya merdeka,positive,neutral,neutral
+puas dgn layanan nya 😁🙏🏻",barang bagus pengiriman cepat puas dgn layanan nya,negative,neutral,neutral,0.708095791679743
+"Produk mantap, pelayanan dan respon cepet, rekomen banget",produk mantap pelayanan dan respon cepet rekomen banget,positive,positive,positive,0.9877530250261113
+diterima dengan baik. mantab. barang berfungsi dengan baik.,diterima dengan baik mantab barang berfungsi dengan baik,positive,positive,positive,0.8269225627077815
+"Barang asli ,sesuai dengan pesanan ,produk mulus",barang asli sesuai dengan pesanan produk mulus,neutral,negative,neutral,0.47864648378901475
+"Perfecta handheld console para mi.. good performa, sleek design, good build quality. Pelayanan toko-nya juga bagus banget, ramah dan cepat.. 👌🏼👌🏼",perfecta handheld console para mi good performa sleek design good build quality pelayanan tokonya juga bagus banget ramah dan cepat,positive,neutral,neutral,0.6478221558319966
+"durasi unboxing kepanjangan gk bisa keupload min, btw barang dateng puas tidak ada minus. Adminnya ramah untuk customer yg banyak nanya kek saya 🤍",durasi unboxing kepanjangan gk bisa keupload min btw barang dateng puas tidak ada minus adminnya ramah untuk customer yg banyak nanya kek saya,negative,negative,negative,0.8981007061954667
+"Pengiriman “kurir toko” tapi suruh ambil sendiri, ditengah demo huru hara pula",pengiriman kurir toko tapi suruh ambil sendiri ditengah demo huru hara pula,negative,neutral,neutral,0.7828423212769373
+good performance,good performance,neutral,neutral,neutral,0.7371996907063225
+barang sudah sampe dan aman cuma minusnya pengiriman yang agak lama 😅,barang sudah sampe dan aman cuma minusnya pengiriman yang agak lama,neutral,neutral,neutral,0.5722413239624623
+"Entah order yg ke berapa kali, sdh tdk ingat, yg jelas kualitas tetap terjaga tanpa pernah komplain. sayangnya gak pernah kasih gift sebagai award. recommanded seller pok... ",entah order yg ke berapa kali sdh tdk ingat yg jelas kualitas tetap terjaga tanpa pernah komplain sayangnya gak pernah kasih gift sebagai award recommanded seller pok,negative,negative,negative,0.9989395203629021
+barangnya bagus. sangat direkomendasikan,barangnya bagus sangat direkomendasikan,positive,positive,positive,0.8125219994689152
+Reviewnya udah tayang di channelku Youtubeku @bangripiu 😌,reviewnya udah tayang di channelku youtubeku bangripiu,neutral,neutral,neutral,0.781397426550853
+"sipp, sesuai ekspektasi. pas dapat harga murce",sipp sesuai ekspektasi pas dapat harga murce,neutral,negative,negative,0.580496486270151
+"datang dengan kualitas prima tanpa cacat, RAM sesuai, dan bisa klaim OHS.",datang dengan kualitas prima tanpa cacat ram sesuai dan bisa klaim ohs,positive,positive,positive,0.78550982442033
+Barang sesuai deskripsi dan dikemas dengan baik,barang sesuai deskripsi dan dikemas dengan baik,positive,positive,positive,0.585572852173899
+Mantapp barang baguss laptop orii,mantapp barang baguss laptop orii,negative,neutral,neutral,0.48591481195544506
+"KEREN NO KOMEN, DIPAKE MAEN GAMES KEBUT, DIPAKE TRADINGAN APALAGI, THE BEST MSI CLAW 8AI+",keren no komen dipake maen games kebut dipake tradingan apalagi the best msi claw ai,positive,positive,positive,0.8603621451554784
+The best pokoknya,the best pokoknya,positive,positive,positive,0.7936798592476269
+Sempet bermasalah dapet yang gagal product sampai hrus ke pusat ganti bolak balik 3x,sempet bermasalah dapet yang gagal product sampai hrus ke pusat ganti bolak balik x,neutral,negative,negative,0.5247243877150509
+good. cuma di gambar bonus tws. tp gak dapat,good cuma di gambar bonus tws tp gak dapat,neutral,neutral,neutral,0.9162630655280843
+mantab.. sesuai pesanan,mantab sesuai pesanan,positive,positive,positive,0.6899593025358336
+pengiriman tepat waktu meski jakarta lagi demo. unit segel. garansi resmi,pengiriman tepat waktu meski jakarta lagi demo unit segel garansi resmi,neutral,neutral,neutral,0.7403072377290607
+sangat baik dengan harga yg kompetitif dengan brand lain,sangat baik dengan harga yg kompetitif dengan brand lain,negative,negative,negative,0.6133560422237105
+Mantapu Jiwa Raga Indonesia Raya Merdeka,mantapu jiwa raga indonesia raya merdeka,positive,neutral,positive,0.5205172987410747
 "mantab bosku!! 
-Cepat sampai... produk original.. recomended seller....",mantab bosku cepat sampai produk original recomended seller,positive,neutral,positive
-barangnya sesuai tanpa lecet dan kurir tepat waktu,barangnya sesuai tanpa lecet dan kurir tepat waktu,positive,neutral,neutral
+Cepat sampai... produk original.. recomended seller....",mantab bosku cepat sampai produk original recomended seller,positive,neutral,positive,0.4630037889081556
+barangnya sesuai tanpa lecet dan kurir tepat waktu,barangnya sesuai tanpa lecet dan kurir tepat waktu,positive,neutral,neutral,0.629956604002402
 "Setelag dipakai kerja, kualitas dan performanya optimal.Ringan dan desainnya mewah..
 packing rapi dan cepat
-Tks seller untuk pelayanannya",setelag dipakai kerja kualitas dan performanya optimal ringan dan desainnya mewah packing rapi dan cepat tks seller untuk pelayanannya,positive,neutral,neutral
+Tks seller untuk pelayanannya",setelag dipakai kerja kualitas dan performanya optimal ringan dan desainnya mewah packing rapi dan cepat tks seller untuk pelayanannya,positive,neutral,neutral,0.5478366803985697
